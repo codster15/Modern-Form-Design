@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(images/wal2.jpg);
+    background-size: cover;
+  }
+
+  .spanname{
+    color: rgb(184, 1, 1);
+    font-size: 13px;
+    font-weight: 100;
+  }
+  .spanpassword{
+    color: rgb(184, 1, 1);
+    font-size: 13px;
+    font-weight: 100;
+  }
+  
+  .div1 {
+    margin-left: 10%;
+  }
+  
+  .h1style {
+    font-size: 100px;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    margin-left: 200px;
+  }
+  
+  .div1 .h1style .spandesign {
+    color: #ff026b;
+    font-family: 'Playfair Display', serif;
+    border-bottom: 5px solid black;
+  }
+  
+  .logindiv {
+
+
+    border: 5px solid transparent;
+    border-image: linear-gradient(134deg, #ff026b, black ,black,#ff026b);
+    border-image-slice: 1;
+    background-color: black;
+    width: 90%;
+    max-width: 400px;
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%, -50%);
+    box-shadow: -2px 9px 39px 14px #646464;
+
+
+
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+  }
+  
+  li {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    list-style: none;
+    margin: 25px;
+  }
+  
+  input {
+    border: 1px solid black;
+    border-bottom: 2px solid #ccc;
+    background-color: black;
+    width: 85%;
+    margin: 5px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 18px;
+  }
+  
+  .logindiv .buttonli {
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .logindiv .buttonli .buttoninput {
+    border: 1px solid #db005b;
+    background-color: #db005b;
+    color: white;
+    padding: 5px;
+    width: 80%;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .forgetpass {
+    font-size: 14px;
+    font-weight: 100;
+  }
+  
+  .signupstyle {
+    font-size: 16px;
+    font-weight: bold;
+    color: #db005b;
+  }
+  
+  .signupstyle2 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #52a3ff;
+  }
+  
+
+  
+ /* input typle style */
+
+ .username{
+  font-family: 'Dancing Script', cursive;
+  color: orange;
+  font-size: 20px;
+  font-weight: bold;
+ }
+
+ .userPassword{
+  font-family: 'Dancing Script', cursive;
+  color: orange;
+  font-size: 20px;
+  font-weight: bold;
+ }
