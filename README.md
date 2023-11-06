@@ -16,9 +16,9 @@ This project is the result of my passion for web development. I aimed to create 
 
 🌈 Challenges and Learning: Building this form wasn't without its challenges. It pushed me to learn and think outside the box. From design nuances to intricate validation logic, I embraced every challenge as an opportunity to grow as a developer.
 
-👉 You Can Try It! I've made the project available for you to explore. You can see the live demo here: 
+👉 You Can Try It! I've made the project available for you to explore. You can see the live demo here:GitHub Link https://codster15.github.io/modern-form-design/
 
-🔗 GitHub Repository: If you're curious about the code behind the magic, you can find it on my GitHub: GitHub Link
+🔗 GitHub Repository: If you're curious about the code behind the magic, you can find it on my GitHub: GitHub Link https://github.com/codster15/modern-form-design.git
 
 🌟 The Bigger Picture: This project is a reminder of how small ideas can lead to big achievements. It's a testament to the creative possibilities in the world of web development.
 
