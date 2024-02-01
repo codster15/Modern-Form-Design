@@ -2,7 +2,7 @@
 
 Hey there! I'm Deepak singh, a web developer with a passion for creating delightful and user-friendly web experiences. I believe that every line of code should not only work flawlessly but also be a work of art.
 ## 💻 My Work
-I'm thrilled to share a recent project that I've poured my heart and soul into. I've designed a beautiful, modern login form with robust username and password validation, and I can't wait to tell you all about it!
+I'm thrilled to share a recent project that I've poured my heart and soul into. I've designed a beautiful, modern login form with robust username and password validation, and I can't wait to tell you all about it.
 
 🌐 The Modern Login Form: 🌐
 
