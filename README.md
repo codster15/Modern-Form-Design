@@ -8,7 +8,7 @@ I'm thrilled to share a recent project that I've poured my heart and soul into. 
 
 This project is the result of my passion for web development. I aimed to create an elegant and user-friendly login form that not only looks great but also ensures data security. Let's dive into the details:
 
-✨ Stylish Design: The form is a visual delight, featuring a modern and captivating design. I believe that aesthetics play a crucial role in enhancing the user experience. It's a small detail that can make a big difference..
+✨ Stylish Design: The form is a visual delight, featuring a modern and captivating design. I believe that aesthetics play a crucial role in enhancing the user experience. It's a small detail that can make a big difference.
 
 🔐 Username Validation: Username fields often get overlooked, but I wanted to ensure data integrity. With custom validation, the form checks that the username isn't empty and adheres to specific criteria. It's all about making sure the right data goes in.
 
